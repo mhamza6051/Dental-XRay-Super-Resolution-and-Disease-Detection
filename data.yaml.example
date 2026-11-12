@@ -1,0 +1,8 @@
+# YOLO dataset configuration template.
+# Copy to data.yaml and point the paths at your local copy of the dataset.
+train: path/to/dataset/train/images
+val: path/to/dataset/valid/images
+test: path/to/dataset/test/images
+
+nc: 4
+names: ['Cavity', 'Fillings', 'Impacted_Tooth', 'Implant']

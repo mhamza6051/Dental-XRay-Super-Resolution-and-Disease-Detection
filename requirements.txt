@@ -1,0 +1,21 @@
+# App
+streamlit
+plotly
+
+# Deep learning
+torch
+torchvision
+ultralytics
+
+# Image & data
+opencv-python-headless
+pillow
+numpy
+pandas
+
+# Notebook / experiments
+scikit-image
+matplotlib
+seaborn
+tqdm
+jupyter

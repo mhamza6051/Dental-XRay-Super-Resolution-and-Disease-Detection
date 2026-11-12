@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.env
+
+# Datasets (not distributed with this repo)
+data/
+datasets/
+*.zip
+
+# Training runs
+runs/
+*.cache
+
+# OS
+.DS_Store
+Thumbs.db
